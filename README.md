@@ -27,4 +27,5 @@ Screenshots:
 1.Game
 ![image](https://github.com/user-attachments/assets/9f440d08-b997-43d5-87c0-37cc73f6a857)
 2.Game Over
-![image](https://github.com/user-attachments/assets/5f2470b2-ee1c-4aa6-846c-3637f490977f)
+![image](https://github.com/user-attachments/assets/caff28fc-e2a1-4cbb-aeb1-9a334e96b8fe)
+

@@ -3,10 +3,15 @@ A classic Snake Game built using Java and Swing. The objective is to control the
 
 🛠️ Features:
 Smooth Snake Movement: Navigate the snake in four directions using arrow keys.
+
 Apple Collection: Grow the snake by collecting apples.
+
 Collision Detection: Game ends when the snake hits the walls or itself.
+
 Custom Graphics: Includes images for the snake's head, body, and apples.
+
 Game Over Screen: Displays a "Game Over" message upon collision.
+
 📦 Technologies:
 Java
 Swing (for UI components)

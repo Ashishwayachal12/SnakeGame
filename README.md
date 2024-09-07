@@ -15,7 +15,9 @@ Game Over Screen: Displays a "Game Over" message upon collision.
 📦 Technologies:
 Java
 Swing (for UI components)
+
 AWT (for rendering graphics)
+
 🚀 How to Run:
 Clone the repository to your local machine.
 

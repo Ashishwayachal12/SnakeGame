@@ -22,15 +22,21 @@ Clone the repository to your local machine.
 Ensure you have JDK installed.
 
 Compile and run the SnakeGame class:
+
 javac SnakeGame.java
+
 java SnakeGame
+
 Enjoy playing the game! 🎮
 
 
 Screenshots:
 
 1.Game
+
 ![image](https://github.com/user-attachments/assets/9f440d08-b997-43d5-87c0-37cc73f6a857)
+
 2.Game Over
+
 ![image](https://github.com/user-attachments/assets/caff28fc-e2a1-4cbb-aeb1-9a334e96b8fe)
 

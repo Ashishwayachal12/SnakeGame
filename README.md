@@ -34,7 +34,7 @@ Enjoy playing the game! 🎮
 
 Screenshots:
 
-1.Game
+1.Playing Game
 
 ![image](https://github.com/user-attachments/assets/9f440d08-b997-43d5-87c0-37cc73f6a857)
 
